@@ -54,7 +54,9 @@ The dashboard was created using:
 
 ## Screenshots
 
-![Blinkit Dashboard Screenshot](https://github.com/user-attachments/assets/fd4ac090-323d-4d47-aa9a-eeff02ff2318)
+Blinkit Dashboard Screenshot
+![image](https://github.com/user-attachments/assets/de9615cb-d252-4c85-b822-bf1093097039)
+
 
 
 ## Future Improvements
