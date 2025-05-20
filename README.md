@@ -54,9 +54,7 @@ The dashboard was created using:
 
 ## Screenshots
 
-*(Consider adding the screenshot you provided here. In a real GitHub README, you would embed the image directly.)*
-
-![Blinkit Dashboard Screenshot]![image](https://github.com/user-attachments/assets/fd4ac090-323d-4d47-aa9a-eeff02ff2318)
+Blinkit Dashboard Screenshot[image](https://github.com/user-attachments/assets/fd4ac090-323d-4d47-aa9a-eeff02ff2318)
 
 
 ## Future Improvements
